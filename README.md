@@ -1,1 +1,1 @@
-This is an application for Food House members. 
+This is a folder that includes different Android applications/projects I have worked on.
